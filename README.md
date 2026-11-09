@@ -12,8 +12,8 @@
 ### 📊 分析與資料庫工具 (Tools)
 *   **[Power BI]** 精通大型數據處理（Power Query / ETL）、多維度資料模型構建，並擅長開發高效能的互動式商業智慧報表與資料視覺化儀表板。
 *   **[Excel]** 熟練運用 Excel 進行進階資料處理、自動化清洗、樞紐分析與專業商業圖表製作。
-*   **[SSMS]** SQL Server Management Studio：用於 SQL Server 資料庫的管理、開發與維護。
-*   **[SSAS]** SQL Server Analysis Services：熟悉資料倉儲模型構建與多維度資料分析。
+*   **[SSMS]** SQL Server Management Studio：用於 SQL Server 資料庫的管理、開發與維護、及日常的SQL語法查詢。
+*   **[SSAS]** SQL Server Analysis Services：熟悉資料倉儲模型(星狀、雪花)與多維度資料(Cube)構建分析。
 
 ---
 
