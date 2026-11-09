@@ -10,20 +10,21 @@
 *   `SQL` 精通複雜查詢、資料表設計與效能優化。
 
 ### 📊 分析與資料庫工具 (Tools)
-*   `Power BI` 精通大型數據處理（Power Query / ETL）、多維度資料模型構建，並擅長開發高效能的互動式商業智慧報表與資料視覺化儀表板。
+*   `Power BI` 精通大型數據處理（Power Query）、多維度資料模型構建，並擅長開發高效能的互動式商業智慧報表與資料視覺化儀表板。
 *   `Excel` 熟練運用 Excel 進行進階資料處理、自動化清洗、樞紐分析與專業商業圖表製作。
 *   `SSMS` SQL Server Management Studio：用於 SQL Server 資料庫的管理、開發與維護、及日常的SQL語法查詢。
 *   `SSAS` SQL Server Analysis Services：熟悉資料倉儲模型(星狀、雪花)與多維度資料(Cube)構建分析。
 
 ---
 
+<!--
 ## 📈 我的 GitHub 貢獻動態 (My Contribution)
 
 <p align="center">
   <img src="https://vercel.app" alt="gjrt7001's GitHub stats" height="180px"/>
   <img src="https://vercel.app" alt="Top Langs" height="180px"/>
 </p>
-
+-->
 
 ---
 
