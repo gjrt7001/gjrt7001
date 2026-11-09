@@ -14,14 +14,17 @@
 *   **[Excel]** 熟練運用 Excel 進行進階資料處理、自動化清洗、樞紐分析與專業商業圖表製作。
 *   **[SSMS]** SQL Server Management Studio：用於 SQL Server 資料庫的管理、開發與維護、及日常的SQL語法查詢。
 *   **[SSAS]** SQL Server Analysis Services：熟悉資料倉儲模型(星狀、雪花)與多維度資料(Cube)構建分析。
+*   `SSAS` SQL Server Analysis Services：熟悉資料倉儲模型構建與多維度資料分析。
 
 ---
 
 ## 📈 我的 GitHub 貢獻動態 (My Contribution)
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Snake" />
+  <img src="https://vercel.app" alt="gjrt7001's GitHub stats" height="180px"/>
+  <img src="https://vercel.app" alt="Top Langs" height="180px"/>
 </p>
+
 
 ---
 
