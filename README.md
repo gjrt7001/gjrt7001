@@ -29,7 +29,7 @@
 ## 📬 聯絡方式 (Contact)
 歡迎透過 GitHub 與我交流或討論數據相關的專案！
 
-*   **GitHub:** [https://github.com](https://github.com.gjrt7001)
+*   **GitHub:** [https://github.com.gjrt7001](https://github.com.gjrt7001)
 
 
 <!--
