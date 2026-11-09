@@ -6,14 +6,14 @@
 ## 🛠 程式與工具 (Skills & Tools)
 
 ### 程式技術 (Programming)
-*   ![Python](https://shields.io) **Python**：熟悉資料處理、爬蟲、自動化與數據分析。
-*   ![SQL](https://shields.io) **SQL**：精通複雜查詢、資料表設計與效能優化。
+* ![Python](https://shields.io) 熟悉資料處理、爬蟲、自動化與數據分析。
+* ![SQL](https://shields.io) 精通複雜查詢、資料表設計與效能優化。
 
 ### 分析與資料庫工具 (Tools)
-*   ![Power BI](https://shields.io) **Power BI**：精通大型數據處理（Power Query / ETL）、多維度資料模型構建，並擅長開發高效能的互動式商業智慧報表與資料視覺化儀表板。
-*   ![Excel](https://shields.io) **Excel**：熟練運用 Excel 進行進階資料處理、自動化清洗、樞紐分析與專業商業圖表製作。
-*   ![SSMS](https://shields.io) **SSMS (SQL Server Management Studio)**：用於 SQL Server 資料庫的管理、開發與維護。
-*   ![SSAS](https://shields.io) **SSAS (SQL Server Analysis Services)**：熟悉資料倉儲模型構建與多維度資料分析。
+* ![Power BI](https://shields.io) 精通大型數據處理（Power Query / ETL）、多維度資料模型構建，並擅長開發高效能的互動式商業智慧報表與資料視覺化儀表板。
+* ![Excel](https://shields.io) 熟練運用 Excel 進行進階資料處理、自動化清洗、樞紐分析與專業商業圖表製作。
+* ![SSMS](https://shields.io) 用於 SQL Server 資料庫的管理、開發與維護。
+* ![SSAS](https://shields.io) 熟悉資料倉儲模型構建與多維度資料分析。
 
 ---
 
