@@ -33,7 +33,7 @@
 歡迎透過 GitHub 與我交流或討論數據相關的專案！
 
 *   **GitHub:** [https://github.com/gjrt7001](https://github.com/gjrt7001)
-
+*   **Mail:** [gjrt7001@gmail.com](gjrt7001@gmail.com)
 
 
 <!--
